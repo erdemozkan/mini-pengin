@@ -1,0 +1,5 @@
+SCANNED DOCUMENT (CONFIDENTIAL)
+
+This is a simulated scanned document.
+It contains text that exists only as pixels.
+The OCR engine should find this text.

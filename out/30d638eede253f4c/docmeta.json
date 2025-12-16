@@ -1,0 +1,30 @@
+{
+  "doc_id": "30d638eede253f4c",
+  "routed": "non_ocr",
+  "language": "unknown",
+  "page_offsets": [
+    0
+  ],
+  "meta": {
+    "probe": {
+      "num_pages": 1,
+      "text_page_ratio": 1.0,
+      "text_pages_sampled": 1
+    },
+    "route_reason": "router_non_ocr",
+    "token_count": 29,
+    "tables": {
+      "engine": "docling",
+      "count": 1,
+      "items": [
+        {
+          "page": null,
+          "path_html": "out/30d638eede253f4c/tables/table_01.html",
+          "path_csv": "out/30d638eede253f4c/tables/table_01.csv"
+        }
+      ],
+      "best_csv": "out/30d638eede253f4c/tables/table_01.csv",
+      "best_score": 20.0
+    }
+  }
+}

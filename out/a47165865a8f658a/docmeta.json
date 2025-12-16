@@ -1,0 +1,22 @@
+{
+  "doc_id": "a47165865a8f658a",
+  "routed": "ocr",
+  "language": "unknown",
+  "page_offsets": [
+    0
+  ],
+  "meta": {
+    "probe": {
+      "num_pages": 1,
+      "text_page_ratio": 0.0,
+      "text_pages_sampled": 0
+    },
+    "route_reason": "router_ocr",
+    "token_count": 29,
+    "tables": {
+      "engine": "docling",
+      "count": 0,
+      "items": []
+    }
+  }
+}
