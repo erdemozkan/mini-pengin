@@ -1,0 +1,15 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.DS_Store
+
+# Project specific
+mini_pengin.egg-info/
+out/
+
+
+# Logs
+*.log
